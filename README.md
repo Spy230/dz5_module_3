@@ -33,4 +33,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-репозиторий/dz6_mod3.git
+   git clone  https://github.com/Spy230/dz5_module_3/tree/master
